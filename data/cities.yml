@@ -1,0 +1,16 @@
+- name: Berlin
+  category: "Popular"
+  picture: "https://kitt.lewagon.com/placeholder/cities/berlin"
+  address: "Rudi-Dutschke-Straße 26, 10969 Berlin"
+- name: Paris
+  category: "World cities"
+  picture: "https://kitt.lewagon.com/placeholder/cities/paris"
+  address: "16, villa Gaudelet 75011 Paris"
+- name: London
+  category: "World cities"
+  picture: "https://kitt.lewagon.com/placeholder/cities/london"
+  address: "10, Downing Street"
+- name: Shanghai
+  category: "Business"
+  picture: "https://kitt.lewagon.com/placeholder/cities/shanghai"
+  address: "10, Downing Street"
